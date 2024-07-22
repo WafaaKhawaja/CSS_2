@@ -1,0 +1,21 @@
+.amazing_team{
+text-align: center;
+
+}
+
+
+.items{
+
+ float:left;
+ width:33%;   
+}
+
+.clear{
+
+    clear:left;
+}
+
+p{
+
+    color:gray;
+}
